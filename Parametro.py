@@ -1,4 +1,6 @@
-import pandas as pd# Exemplo de atividades corrigido
+import pandas as pd
+
+# Exemplo de atividades corrigido
 dados = {
     'Atividade': [
         'CENSO ESCOLAR 2026 - Segunda Etapa',             #CENSO ESCOLAR 2026
